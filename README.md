@@ -1,1 +1,1 @@
-# NodeJS-mail
+# NodeJS-NodeMailer
